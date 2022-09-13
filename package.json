@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "telegraf": "^4.9.1"
+  },
+  "name": "telegraf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
